@@ -1,4 +1,4 @@
 ### Hi, I'm Kassandra!
-  -💫 I'm currently working towards my Computer Science Degree at Cal State LA
+  -💫 2026 CS Graduate From CSULA
   
-  -🫧 Interested in working with data analytics within sports, or music platforms
+  -🫧 Welcome to my github page where I keep projects and host future work!
